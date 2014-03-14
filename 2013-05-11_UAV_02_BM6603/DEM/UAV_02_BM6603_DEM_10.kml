@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <GroundOverlay>
+      <Icon>
+        <href>UAV_02_BM6603_DEM_10.tif</href>
+      </Icon>
+      <LatLonBox>
+        <north>25.0761220023561719</north>
+        <south>25.0732270023561732</south>
+        <east>89.7895707469553912</east>
+        <west>89.7870197469553943</west>
+      </LatLonBox>
+      <name>UAV_02_BM6603_DEM_10.tif</name>
+      <drawOrder>1</drawOrder>
+    </GroundOverlay>
+  </Document>
+</kml>
